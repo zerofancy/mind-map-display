@@ -5,6 +5,7 @@ import { marked } from 'marked';
 import { metaData } from "../meta-generated.js"
 
 const containerElement = document.getElementById('mindMapContainer')
+document.title = metaData.data.text + " - 思维导图展示"
 
 let toastShowing = null
 

@@ -6,7 +6,17 @@ function traverseFolder(folderPath) {
     const childrenNodes = childrenFolders.map((folder) => traverseFolder(path.join(folderPath, folder)))
 
     const noteFile = path.join(folderPath, "README.md")
+    const nameFile = path.join(folderPath, ".name")
+
     let noteText = null
+    let name = path.basename(folderPath)
+
+    if (fs.existsSync(nameFile)) {
+        try {
+            name = fs.readFileSync(nameFile, 'utf8')
+        } catch (e) {
+        }
+    }
     if (fs.existsSync(noteFile)) {
         try {
             noteText = fs.readFileSync(noteFile, 'utf8')
@@ -16,7 +26,7 @@ function traverseFolder(folderPath) {
     }
     return {
         "data": {
-            "text": path.basename(folderPath),
+            "text": name,
             "note": noteText
         },
         "children": childrenNodes
