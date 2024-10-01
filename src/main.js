@@ -34,5 +34,6 @@ new MindMap({
     },
     hide: () => {
     }
-  }
+  },
+  alwaysShowExpandBtn: true
 });
