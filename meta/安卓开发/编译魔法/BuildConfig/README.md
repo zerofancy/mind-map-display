@@ -1,0 +1,2 @@
+- [DebugEntrance和DebugConfig](https://ntutn.top/posts/debugentrance%E5%92%8Cdebugconfig/)
+- [ 给APP添加构建信息 ](https://ntutn.top/posts/%E7%BB%99app%E6%B7%BB%E5%8A%A0%E6%9E%84%E5%BB%BA%E4%BF%A1%E6%81%AF/)

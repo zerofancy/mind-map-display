@@ -1,0 +1,1 @@
+[【译】用BuildSrc和Kotlin_DSL管理Gradle依赖](https://ntutn.top/posts/%E8%AF%91%E7%94%A8buildsrc%E5%92%8Ckotlin_dsl%E7%AE%A1%E7%90%86gradle%E4%BE%9D%E8%B5%96/)

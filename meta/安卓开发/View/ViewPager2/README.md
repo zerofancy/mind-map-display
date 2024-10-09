@@ -1,0 +1,1 @@
+[打造一个接入简单的通用banner组件](https://ntutn.top/posts/%E6%89%93%E9%80%A0%E4%B8%80%E4%B8%AA%E6%8E%A5%E5%85%A5%E7%AE%80%E5%8D%95%E7%9A%84%E9%80%9A%E7%94%A8banner%E7%BB%84%E4%BB%B6/)

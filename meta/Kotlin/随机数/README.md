@@ -1,0 +1,1 @@
+[Kotlin的随机数不随机](https://ntutn.top/posts/kotlin%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%95%B0%E4%B8%8D%E9%9A%8F%E6%9C%BA/)

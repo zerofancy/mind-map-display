@@ -1,0 +1,1 @@
+[ViewBinding、ViewModel和LiveData](https://ntutn.top/posts/viewbindingviewmodel%E5%92%8Clivedata/)
