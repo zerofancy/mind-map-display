@@ -1,0 +1,1 @@
+[Init块中使用非final属性问题](https://www.ntutn.top/posts/init%E5%9D%97%E4%B8%AD%E4%BD%BF%E7%94%A8%E9%9D%9Efinal%E5%B1%9E%E6%80%A7%E9%97%AE%E9%A2%98/)

@@ -1,0 +1,1 @@
+[Kotlin的SAM转换和踩坑](https://www.ntutn.top/posts/kotlin%E7%9A%84sam%E8%BD%AC%E6%8D%A2%E5%92%8C%E8%B8%A9%E5%9D%91/)
